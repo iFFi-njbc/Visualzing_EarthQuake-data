@@ -78,7 +78,7 @@ Method checkCitiesForClick() in EarthquakeCityMap class, if the user clicked on 
 Mathod drawMarker() in cityMarker class, if the getClicked() is true, I will get the properties of this city marker using getProperties method.  
 
 
-<img src="" width="600">  
+<img src="Screenshot 2022-06-06 145625.jpg" width="600">  
 
 
 
