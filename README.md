@@ -66,6 +66,22 @@ Using OpenGLMapDisplay with processing.opengl.PGraphics3D
 - Venezuela: 2
 - OCEAN QUAKES: 2258
 
+### Extended Functionality
+==========================
+
+When clicking on a city, A textbox and the console will display a count for the number of nearby earthquakes (within threatCircle) the average magnitude. It will also show the complete information of earth quakes occured.
+
+The extension  is in the EarthquakeCitymap class and CityMarker class in module 7.
+
+Method checkCitiesForClick() in EarthquakeCityMap class, if the user clicked on a city, all the earthquakes' threat circle that include the city will be recorded and their location information will be added to a array list. Then, I called the getProperties()  method of city marker and returned a HashMap called prop. Then, I will put the earthquake information threat circle and averagemag into the prop which is be used in the cityMarker class.  then information will be displayed in the console.
+
+Mathod drawMarker() in cityMarker class, if the getClicked() is true, I will get the properties of this city marker using getProperties method.  
+
+
+<img src="" width="600">  
+
+
+
 ### Detailed Explanation Of The Code;
 
 The project has an interactive map which displays where the earthquakes have occured with the help of markers. Optionally you can work online or offline with it. If you work online **GoogleMapProvider()** will display a map otherwise, an offline map is displayed. 
