@@ -1,10 +1,6 @@
 Earthquake-Data
 ==================================================================
 
-- Name and Surname: Asel Esra Ozyilmaz
-- Email: esra.ozyilmaz@iaau.edu.kg
-- Computer Science Department of Alatoo International University.
-- Individual final project for CS-102 Java class.
 
 A GUI created by using Processing and Unfolding Maps library functions in Eclipse IDE to display and print out the earthquakes which have occured all over the world.
 
