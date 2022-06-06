@@ -21,7 +21,7 @@ Processing uses the Java language, with additional simplifications such as addit
 
 `Map can be zoomed as shown below. The image next to it is the printed results appearing on the console.`
 
-<img src="file:///C:/Users/HP/Downloads/Screenshot%202022-06-06%20152932.jpg" width="600">  
+<img src="Screenshot 2022-06-06 152932.jpg" width="600">  
 
 Using OpenGLMapDisplay with processing.opengl.PGraphics3D
 Afghanistan: 13
