@@ -24,47 +24,47 @@ Processing uses the Java language, with additional simplifications such as addit
 <img src="Screenshot 2022-06-06 152932.jpg" width="600">  
 
 Using OpenGLMapDisplay with processing.opengl.PGraphics3D
-*Afghanistan: 13
-*Argentina: 8
--Bolivia: 2
--Canada: 44
--Chile: 10
--China: 16
--Democratic Republic of the Congo: 2
--Colombia: 4
--Cyprus: 1
--Dominican Republic: 6
--Algeria: 1
--Greece: 3
--Guatemala: 4
--Indonesia: 7
--India: 2
--Iran: 2
--Israel: 1
--Italy: 2
--Japan: 8
--Mexico: 17
--Myanmar: 2
--Malaysia: 1
--Nicaragua: 1
--Nepal: 3
--Pakistan: 5
--Peru: 5
--Philippines: 5
--Papua New Guinea: 5
--Puerto Rico: 16
--Portugal: 2
--Solomon Islands: 1
--El Salvador: 1
--Sweden: 2
--Tajikistan: 2
--Turkey: 2
--Taiwan: 1
--Ukraine: 1
--United States of America: 6583
--Uzbekistan: 2
--Venezuela: 2
--OCEAN QUAKES: 2258
+- Afghanistan: 13
+- Argentina: 8
+- Bolivia: 2
+- Canada: 44
+- Chile: 10
+- China: 16
+- Democratic Republic of the Congo: 2
+- Colombia: 4
+- Cyprus: 1
+- Dominican Republic: 6
+- Algeria: 1
+- Greece: 3
+- Guatemala: 4
+- Indonesia: 7
+- India: 2
+- Iran: 2
+- Israel: 1
+- Italy: 2
+- Japan: 8
+- Mexico: 17
+- Myanmar: 2
+- Malaysia: 1
+- Nicaragua: 1
+- Nepal: 3
+- Pakistan: 5
+- Peru: 5
+- Philippines: 5
+- Papua New Guinea: 5
+- Puerto Rico: 16
+- Portugal: 2
+- Solomon Islands: 1
+- El Salvador: 1
+- Sweden: 2
+- Tajikistan: 2
+- Turkey: 2
+- Taiwan: 1
+- Ukraine: 1
+- United States of America: 6583
+- Uzbekistan: 2
+- Venezuela: 2
+- OCEAN QUAKES: 2258
 
 ### Detailed Explanation Of The Code;
 
