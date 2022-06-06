@@ -1,11 +1,6 @@
 Earthquake-Data
 ==================================================================
 
-- Name and Surname: Asel Esra Ozyilmaz
-- Email: esra.ozyilmaz@iaau.edu.kg
-- Computer Science Department of Alatoo International University.
-- Individual final project for CS-102 Java class.
-
 A GUI created by using Processing and Unfolding Maps library functions in Eclipse IDE to display and print out the earthquakes which have occured all over the world.
 
 This is a project that I have created with the help of the Object Oriented Programming in Java course offered by 
@@ -21,7 +16,7 @@ Processing uses the Java language, with additional simplifications such as addit
 ## Description Of The Project
 
 ### Displayed And Printed Results;
-<img src="https://user-images.githubusercontent.com/64264345/81493697-6b51f500-92c4-11ea-9770-faf08fc44470.png" width="600">
+<img src="file:///C:/Users/HP/Downloads/Screenshot%202022-06-06%20145601.jpg" width="600">
 
 `Map can be zoomed as shown below. The image next to it is the printed results appearing on the console.`
 
