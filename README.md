@@ -24,8 +24,8 @@ Processing uses the Java language, with additional simplifications such as addit
 <img src="Screenshot 2022-06-06 152932.jpg" width="600">  
 
 Using OpenGLMapDisplay with processing.opengl.PGraphics3D
--Afghanistan: 13
--Argentina: 8
+*Afghanistan: 13
+*Argentina: 8
 -Bolivia: 2
 -Canada: 44
 -Chile: 10
